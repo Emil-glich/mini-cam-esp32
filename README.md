@@ -15,3 +15,5 @@ Ich will eine Kamera mit einem esp32, bildschirm und ein paar knöpfen bauen. Ic
 
 ![Wiring Diagram](<img width="571" height="666" alt="cam_proj1" src="https://github.com/user-attachments/assets/779ae36c-545f-4133-80a5-5634f9eae8cc" />
 )
+
+In the document "wiring" you can see the needed wiring for intern AND extern components.
