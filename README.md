@@ -8,10 +8,10 @@ Ich will eine Kamera mit einem esp32, bildschirm und ein paar knöpfen bauen. Ic
 
 ## Bill of Materials (BOM)
 
-| Item | Quantity | Description | Link |
-| --- | --- | --- | --- |
-| Freenove ESP32-S3 Board | 1 | ESP32-S3 with Camera & SD Slot | https://www.amazon.de/gp/product/B0BMQ8F7FN/ref=ox_sc_act_image_1_2?smid=A3DM8VCGJL5PKR&th=1 |
-| 2inch LCD Display Module | 1 | 240x320 TFT Display | https://www.amazon.de/gp/product/B0CY7X8TWB/ref=ox_sc_act_title_1_1?smid=A2NY5HB5PZ1W3L&psc=1 |
+| Item | Quantity | Description | Link | Price |
+| --- | --- | --- | --- | --- |
+| Freenove ESP32-S3 Board | 1 | ESP32-S3 with Camera & SD Slot | https://www.amazon.de/gp/product/B0BMQ8F7FN/ref=ox_sc_act_image_1_2?smid=A3DM8VCGJL5PKR&th=1 | 16,31€ |
+| 2inch LCD Display Module | 1 | 240x320 TFT Display | https://www.amazon.de/gp/product/B0CY7X8TWB/ref=ox_sc_act_title_1_1?smid=A2NY5HB5PZ1W3L&psc=1 | 20,95€ |
 
 ![Wiring Diagram](<img width="571" height="666" alt="cam_proj1" src="https://github.com/user-attachments/assets/779ae36c-545f-4133-80a5-5634f9eae8cc" />
 )
