@@ -17,3 +17,5 @@ Ich will eine Kamera mit einem esp32, bildschirm und ein paar knöpfen bauen. Ic
 )
 
 In the document "wiring" you can see the needed wiring for intern AND extern components.
+
+There is no PCB design or data because i want to solder it my own. I really like soldering you should try it too.
