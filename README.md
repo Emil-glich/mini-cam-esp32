@@ -24,7 +24,6 @@ Currently main.ino is just a test if the screen, sd card and camera works. Im cu
 
     Wiring:
 
-  Extern
 Display = ESP32
 
 VCC = ESP32 3V3
@@ -42,34 +41,4 @@ Gnd = Gnd
 + = GPIO 1
 
 
-  Intern 
-Cam = ESP32
-
-PWDN_GPIO_NUM     -1
-RESET_GPIO_NUM    -1
-XCLK_GPIO_NUM     15
-SIOD_GPIO_NUM     4
-SIOC_GPIO_NUM     5
-Y9_GPIO_NUM       16
-Y8_GPIO_NUM       17
-Y7_GPIO_NUM       18
-Y6_GPIO_NUM       12
-Y5_GPIO_NUM       10
-Y4_GPIO_NUM       8
-Y3_GPIO_NUM       9
-Y2_GPIO_NUM       11
-VSYNC_GPIO_NUM    6
-HREF_GPIO_NUM     7
-PCLK_GPIO_NUM     13
-
-
-
-SD-Slot = ESP32
-
-CLK = Pin 39
-CMD = Pin 38
-D0 = Pin 40
-Gnd = Gnd
-Vcc = Vcc
-
-
+more detailed wiring on the extra file
