@@ -15,7 +15,6 @@ I want to build a camera using an ESP32, a screen, and a few buttons. I want to 
 
 <img width="1471" height="772" alt="esp_cam" src="https://github.com/user-attachments/assets/0b5883ac-a0bf-402f-ad9a-376d3271df44" />
 
-)
 
 In the document "wiring" you can see the needed wiring for intern AND extern components.
 
