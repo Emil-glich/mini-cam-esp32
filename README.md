@@ -38,8 +38,9 @@ BL = 3V3 (Backlight)
 
 
 Button = ESP32
-Gnd = Gnd
-+ = GPIO 1
+
+pin 1 = GPIO 1
+pin 2 = GnD
 
 
 more detailed wiring on the extra file
