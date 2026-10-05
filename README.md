@@ -13,7 +13,8 @@ I want to build a camera using an ESP32, a screen, and a few buttons. I want to 
 | Freenove ESP32-S3 Board | 1 | ESP32-S3 with Camera & SD Slot | https://www.amazon.de/gp/product/B0BMQ8F7FN/ref=ox_sc_act_image_1_2?smid=A3DM8VCGJL5PKR&th=1 | 16,31€ |
 | 2inch LCD Display Module | 1 | 240x320 TFT Display | https://www.amazon.de/gp/product/B0CY7X8TWB/ref=ox_sc_act_title_1_1?smid=A2NY5HB5PZ1W3L&psc=1 | 20,95€ |
 
-![Wiring Diagram](<img width="571" height="666" alt="cam_proj1" src="https://github.com/user-attachments/assets/779ae36c-545f-4133-80a5-5634f9eae8cc" />
+<img width="1471" height="772" alt="esp_cam" src="https://github.com/user-attachments/assets/0b5883ac-a0bf-402f-ad9a-376d3271df44" />
+
 )
 
 In the document "wiring" you can see the needed wiring for intern AND extern components.
@@ -28,12 +29,13 @@ Display = ESP32
 
 VCC = ESP32 3V3
 GND = ESP32 GND
-SCL = GPIO 12 (SPI CLK)
-SDA = GPIO 11 (SPI MOSI)
-RES = GPIO 10
+CLK = GPIO 12 (SPI CLK)
+DIN = GPIO 11 (SPI MOSI)
+RST = GPIO 10
 DC = GPIO 9
 CS = GPIO 14
-BLK = 3V3 (Backlight)
+BL = 3V3 (Backlight)
+
 
 
 Button = ESP32
