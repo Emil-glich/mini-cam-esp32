@@ -14,6 +14,7 @@ I want to build a camera using an ESP32, a screen, and a few buttons. I want to 
 | 2inch LCD Display Module | 1 | 240x320 TFT Display | https://www.amazon.de/gp/product/B0CY7X8TWB/ref=ox_sc_act_title_1_1?smid=A2NY5HB5PZ1W3L&psc=1 | 20,95€ |
 
 <img width="1471" height="772" alt="esp_cam" src="https://github.com/user-attachments/assets/0b5883ac-a0bf-402f-ad9a-376d3271df44" />
+<img width="826" height="432" alt="pinoutespcam" src="https://github.com/user-attachments/assets/736ea692-0f99-4a64-a4a8-50ff5c5a4484" />
 
 
 In the document "wiring" you can see the needed wiring for intern AND extern components.
