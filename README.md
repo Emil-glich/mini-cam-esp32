@@ -44,3 +44,5 @@ pin 2 = GnD
 
 
 more detailed wiring on the extra file
+
+I am not able to create a new 3d modell because i dont know how to use Oneshape or blender. My plan was to use the already existing one.
